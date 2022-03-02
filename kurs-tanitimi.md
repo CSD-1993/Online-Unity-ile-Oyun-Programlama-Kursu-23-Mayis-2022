@@ -5,35 +5,15 @@
 
 + Bu kurs daha Java ve/veya C# programlama dilini kullanan katılımcıların oyun programlama becerilerini artırmaya yöndeliktir
 
-+ Oyun programlamada popülere bir araç olan Unity platformu C# programlama dili ile kullanılacaktır
++ Oyun programlamada popüler bir araç olan Unity platformu C# programlama dili ile kullanılacaktır
 
 + Kurs içerisinde irili ufaklı bir çok oyun yazılacaktır
 
 + Kurs içersinde 2 boyutulu sonsuz oyunlar (2D endless game) geliştirilecektir
 
-+ Sanal gerçeklik ve artırılmış gerçeklik destekli oyunlar geliştirilecektir
++ Sanal gerçeklik ve artırılmış gerçeklik destekli oyunların geliştirilmesine yönelik teknikler de kurs kapsamındadır
 
-+ Büyük projeler geliştirilirken kullanılan yaklaşımlar, mimariler ve araçlar uygulamalı olarak ele alınacaktır.
-
-+ Katılımcılara özelllikle büyük bir projede geliştirici olabilecekleri şekilde uygulamalar yapılacaktır.
-
-+ Katılımcılara bir projenin kodlama aşamasında nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
-
-+ Katılımcılara Java ile uygulama geliştirme yapılırken gereken yardımcı bazı araçlar da anlatılacaktır
-
-+ Kursta MongoDB, Elastic search ve Redis gibi araçlar kullanarak uygulama geliştirme üzerinde de detaylı olarak durulacaktır
-
-+ Kursta reflection işlemlerine yönelik ileri düzey uygulamalar geliştirilecektir
-
-+ Kursta "microservice" uygulamaları detaylı bir biçimde ele alınacaktır
-
-+ Kursta TCP/IP Protokol Ailesi İle Proseslerarası Haberleşme uygulamaları yapılacaktır
-
-+ Kursta Java ile aşağı seviyeli uygulamar da ele alınacaktır
-
-+ Kursta veri yapıları ve algoritmalar Java ile gerçekleştirilecektir (implementation)
-
-+ Kursta özellikle RaspBerryPI ile IOT (Internet Of Things) uygulamarı anlatılacak ve geliştirilecektir
++ Network üzerinde oynanan oyunların geliştirilmesi de kurs kapsamındadıor
 
 
 ## Ön Koşul
