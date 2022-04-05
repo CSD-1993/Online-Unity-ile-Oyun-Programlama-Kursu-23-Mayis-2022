@@ -22,14 +22,14 @@
 Bu programa katılabilmek için daha Java ya da C# programlama dilini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya  _C# ile Nesne Yönelimli Programlama_ kursuna katılmış olmak gerekmektedir
 
 ## Eğitim Süresi
-Programın toplam süresi __120__ saattir.
+Programın toplam süresi __100__ saattir.
 
 ## Ders Günleri ve Saatleri
 Dersler hafta içi __Pazartesi - Çarşamba__ günleri saat __19:30 - 22:30__ saatleri arasında __3__'er saat olarak yapılacaktır.
 
 
 ## Eğitim İçeriği
-[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-icerigi.md)
+[__Eğitim içeriğini bu bağlantıdan görebilirsiniz.__](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/kurs-icerigi.md)
 
 ## Eğitmen
 Kurs __C ve Sistem Programcıları Derneği__ başkan yardımcısı __Oğuz Karan__ tarafından verilmektedir.
@@ -74,10 +74,9 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 _Unity ile Oyun Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti **KDV DAHİL 3900 TL**‘dir. Öğrenci olanlara **KDV DAHİL 3600 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler. Peşin ödemede __%10__ indirim uygulanmaktadır
-
+Programın toplam ücreti **KDV DAHİL 4200 TL**‘dir. Öğrenci olanlara **KDV DAHİL 3700 TL** (öğrencilik durumunu belgelemeleri kaydıyla)_  Katılımcılar, eğitim programı ücretini dilerlerse __2 taksitte__ ödeyebilirler.
 ## Eğitim Programına Kayıt
-[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZUtc-6tqzksHdZSMM_rMqxoc4m7M63RJJBy). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+[Katılım için önce ön kayıt yaptırmalısınız]( https://us02web.zoom.us/meeting/register/tZEuf-moqTMqGdfPoSur-Mke_-xMTZTUZ49A). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
-_Unity ile Oyun Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
+_Unity ile Oyun Programlama_ hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [__sık sorulan sorular__](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [_Oğuz Karan_ ile iletişime geçebilir](https://www.linkedin.com/in/o%C4%9Fuz-karan-28664b2b/) ya da ona bir [e-posta mesajı gönderebilirsiniz](mailto:oguzkaran@csystem.org)
