@@ -16,8 +16,8 @@ Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar ku
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Dersleri izleyen 3 gün içinde dersleri size özel verilecek şifre ile `Vimeo`'dan izleyebilirsiniz.
 
-### 160 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __120__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz.
+### 100 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __100__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz.
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki.
@@ -39,8 +39,8 @@ Kursa katılanların önemli bir kısmı çalışan kişilerden oluşuyor. Dersl
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-## Daha önce Java ile uygulama geliştirdim. Ancak seviyemi tam olarak bilmiyorum. Ne yapabilirim?
-Eğer daha önce Java ile uygulama geliştirdiyseniz ancak seviyeniz konusunda bir fikriniz yoksa eğitmen ile konuşmanız faydalı olacaktır
+## Daha önce Unity ile uygulama geliştirdim. Ancak seviyemi tam olarak bilmiyorum. Ne yapabilirim?
+Eğer daha önce Unity ile uygulama geliştirdiyseniz ancak seviyeniz konusunda bir fikriniz yoksa eğitmen ile konuşmanız faydalı olacaktır
 
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
