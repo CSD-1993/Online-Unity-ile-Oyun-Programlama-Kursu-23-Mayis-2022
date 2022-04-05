@@ -9,7 +9,7 @@
 + Toplam kurs süresi __100__ saattir. Dersler __Pazartesi - Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/kurs-icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Java-ile-Uygulama-Gelistirme-2-Kursu/blob/main/sss.md)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/kurs-tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/kurs-icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/sss.md)
 + [Kursa buradan kayıt olabilirsiniz](https://us02web.zoom.us/meeting/register/tZEuf-moqTMqGdfPoSur-Mke_-xMTZTUZ49A)
