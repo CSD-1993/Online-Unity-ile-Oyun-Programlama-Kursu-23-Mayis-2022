@@ -7,6 +7,7 @@
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __100__ saattir. Dersler __Pazartesi - Çarşamba__ günleri __19:30 - 22:30__ saatleri arasında yapılacaktır.
++ Kursun toplam ücreti KDV dahil __4200__ TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) __3700__ TL KDV Dahil. Kurs ücretini 2 taksitte ödeyebilirsiniz.
 
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unity-ile-Oyun-Programlama-Kursu/blob/main/kurs-tanitimi.md)
