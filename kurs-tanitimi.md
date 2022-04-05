@@ -2,7 +2,6 @@
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 
-
 + Bu kurs daha Java ve/veya C# programlama dilini kullanan katılımcıların oyun programlama becerilerini artırmaya yöndeliktir
 
 + Oyun programlamada popüler bir araç olan Unity platformu C# programlama dili ile kullanılacaktır
@@ -11,10 +10,13 @@
 
 + Kurs içersinde 2 boyutulu sonsuz oyunlar (2D endless game) geliştirilecektir
 
-+ Sanal gerçeklik ve artırılmış gerçeklik destekli oyunların geliştirilmesine yönelik teknikler de kurs kapsamındadır
++ Sanal gerçeklik ve artırılmış gerçeklik destekli oyunlar geliştirilecektir
 
-+ Network üzerinde oynanan oyunların geliştirilmesi de kurs kapsamındadıor
++ Katılımcılara oyun programlamada nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
 
++ Ağ (network) üzerinde oyun geliştirme uygulamaları da yapılacaktır
+
++ Katılımcılara Android ve IO için geliştirilen oyunlarda platforma özgü dikkat edilmesi gereken kavramlar da anlatılacaktır
 
 ## Ön Koşul
 Bu programa katılabilmek için daha Java ya da C# programlama dilini bilmek ya da derneğimizde düzenlenmekte olan _Java ile Nesne Yönelimli Programlama_ veya  _C# ile Nesne Yönelimli Programlama_ kursuna katılmış olmak gerekmektedir
@@ -64,9 +66,9 @@ Eğitim ve danışmanlık verdiği kurumlar arasında
 
 + Öğrenciler hafta içi önceden belirlenmiş belirli saatlerde eğitmene danışabilir ve rehberlik hizmeti alabilirler.
 
-+ Eğitim dili Türkçe’dir. Programlama, Java ve kullanılan teknolojilerle ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
++ Eğitim dili Türkçe’dir. Oyun programlama, unity ve genel programlama ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 2 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen 3 gün içinde kendilerine verilecek şifre ile _Vimeo_ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
 _Unity ile Oyun Programlama_ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile _dropbox_ üzerinden paylaşılmaktadır.
