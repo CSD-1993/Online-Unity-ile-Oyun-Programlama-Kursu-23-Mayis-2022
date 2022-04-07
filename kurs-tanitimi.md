@@ -6,11 +6,11 @@
 
 + Oyun programlamada popüler bir araç olan Unity platformu C# programlama dili ile kullanılacaktır
 
-+ Kurs içerisinde irili ufaklı bir çok oyun yazılacaktır
++ Kurs içerisinde irili ufaklı birçok oyun yazılacaktır
 
 + Kurs içersinde 2 boyutulu sonsuz oyunlar (2D endless game) geliştirilecektir
 
-+ Sanal gerçeklik ve artırılmış gerçeklik destekli oyunlar geliştirilecektir
++ Sanal gerçeklik ve arttırılmış gerçeklik destekli oyunlar geliştirilecektir
 
 + Katılımcılara oyun programlamada nelere dikkat etmeleri gerektiği ve nasıl planlama yapıp geliştirme aşamasına geçebilecekleri de anlatılacak, bunlara yönelik uygulamalar yapılacaktır.
 
