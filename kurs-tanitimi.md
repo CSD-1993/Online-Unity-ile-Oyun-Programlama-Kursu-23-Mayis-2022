@@ -2,7 +2,7 @@
 
 + Bu kurs [__C ve Sistem Programcıları Derneği__](www.csystem.org) ve Sistem Bilgisayar işbirliği ile düzenlenmektedir.
 
-+ Bu kurs daha Java ve/veya C# programlama dilini kullanan katılımcıların oyun programlama becerilerini artırmaya yöndeliktir
++ Bu kurs Java ve/veya C# programlama dilini kullanan katılımcıların oyun programlama becerilerini artırmaya yöndeliktir
 
 + Oyun programlamada popüler bir araç olan Unity platformu C# programlama dili ile kullanılacaktır
 
