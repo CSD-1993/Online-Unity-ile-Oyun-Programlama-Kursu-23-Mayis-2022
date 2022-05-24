@@ -23,18 +23,18 @@
 	+ Text, Image ve drop-down menu
 	+ Örnek uygulamalar
 ## Kamera işlemleri
-		+ Kameralar
-		+ Temel sahne (scene) oluşturma
-		+ Sabit Kamera ile Çalışma
-		+ Kamera ekran boyutunun değiştirilmesi
-		+ Render Texture
-		+ Çalışma zamanında anlık görüntü oluşturma
-		+ Çok amaçlı kamera donanımıyla çalışma
-		+ Örnek uygulamalar
+	+ Kameralar
+	+ Temel sahne (scene) oluşturma
+	+ Sabit Kamera ile Çalışma
+	+ Kamera ekran boyutunun değiştirilmesi
+	+ Render Texture
+	+ Çalışma zamanında anlık görüntü oluşturma
+	+ Çok amaçlı kamera donanımıyla çalışma
+	+ Örnek uygulamalar
 ## Shader Graphs and Video Players
-		+ Shader kavramı ve kullanımı
-		+ Video işlemleri
-		+ Örnek uygulamalar
+	+ Shader kavramı ve kullanımı
+	+ Video işlemleri
+	+ Örnek uygulamalar
 ## Unity ile 2 boyutlu uygulama geliştirme
 	+ 2 boyutlu sonsuz oyunlar (endless game)
 	+ 2 boyutlu oyunlarda arka planın oluşturulması
